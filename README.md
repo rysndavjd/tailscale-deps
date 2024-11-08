@@ -1,1 +1,1 @@
-# tailscale-deps
+This repo is for holding go modules required to build tailscale to available to download for my ebuild repo.
